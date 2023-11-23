@@ -1,2 +1,2 @@
 print('j')
-pass
+print('new')
